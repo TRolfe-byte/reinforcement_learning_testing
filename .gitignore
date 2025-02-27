@@ -1,0 +1,12 @@
+# Ignore Jupyter user settings
+.jupyter/
+.ipynb_checkpoints/
+.local/
+.cache/
+.npm/
+.sagemaker/
+.sagemaker_sql_editor_api_cache/cache.db-wal
+.lesshst
+.sagemaker_sql_editor_api_cache/cache.db
+.sagemaker_sql_editor_api_cache/cache.db-shm
+.ipython/profile_default/history.sqlite
