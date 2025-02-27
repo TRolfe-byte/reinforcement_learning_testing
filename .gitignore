@@ -11,3 +11,8 @@
 .sagemaker_sql_editor_api_cache/cache.db
 .sagemaker_sql_editor_api_cache/cache.db-shm
 .ipython/profile_default/history.sqlite
+.git-credentials
+.gitconfig
+.virtual_documents/notebooks/Untitled.ipynb
+gitignore
+user-default-efs
